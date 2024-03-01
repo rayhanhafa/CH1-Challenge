@@ -3,9 +3,14 @@ body {
     background-color: white;
 }
 
+* {
+    z-index: 1;
+}
+
 /* Navbar Section */
 .navbar {
     background-color: #F1F3FF;
+    z-index: 2;
 }
 
 .logo {
